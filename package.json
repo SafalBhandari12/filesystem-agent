@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^3.0.118",
     "@ai-sdk/react": "^3.0.77",
     "@vercel/sandbox": "^1.4.1",
     "ai": "^6.0.69",
